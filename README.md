@@ -25,7 +25,8 @@ For n in [A,C] , k in [1,~5]
 ## Counting appearances
 
 - I applied the deep learning model SentenceTransformer for semantic similarity on the list containing the exercises and themes
--Using cosine similarity and key words that match certain exercises descriptions, I placed every exercise in one or more of the following clusters:
+- Using cosine similarity and key words that match certain exercises descriptions, I placed every exercise in one or more of the following clusters:
+  
 [matrices , lists_queue_stack_theory, graphs_theory, write_program, flowchart, fillin, subprograms, oop, matching same_structure, errors, write_theory] (or unknown if neither of the keywords are a match)
 - I treated the *Exercise 1* of *Theme A* separately, as it is always a True/False exercise and I wanted to analyze the context of each True/False question individually
 
