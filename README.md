@@ -8,7 +8,7 @@ I [found](https://www.panellinies.net/%CE%B1%CE%B5%CF%80%CF%80-%CE%B1%CE%BD%CE%A
 - Copy each exam's context into a .txt file
 - The exams questions are separated in 4 Themes followed by an amount of exercises for each theme: 
 
-| Θέμα n          | *Theme n*        |
+| Θέμα n          | *Theme n*       |
 | Εκφώνηση        | *Description*   |
 |-----------------|-----------------|
 | Άσκηση n1       | *Exercise n1*   |
