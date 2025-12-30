@@ -8,19 +8,15 @@ I [found](https://www.panellinies.net/%CE%B1%CE%B5%CF%80%CF%80-%CE%B1%CE%BD%CE%A
 - Copy each exam's context into a .txt file
 - The exams questions are seperated in 4 Themes followed by an amount of excersises for each theme: 
 
-Θέμα n  *Theme n*      
+| Θέμα n          | *Theme n*        |
+|-----------------|-----------------|
+| Εκφώνηση        | *Description*   |
+| Άσκηση n1       | *Exercise n1*   |
+| .               | *.*             |
+| .               | *.*             |
+| .               | *.*             |
+| Άσκηση nk       | *Exercise nk*   |
 
-Εκφώνηση             *Description*
-
-Άσκηση n1            *Excersise n1*
-
-.                    *.*
-
-.                    *.*
-
-.                    *.*
-
-Άσκηση nk            *Excersise nk*
 
 For n in [A,C] , k in [1,~5]
 - I broke each .txt into *Theme n* and *Excersise nk* pieces, using Regex. *Description* is optional, so I only kept *Themes* which were followed by some text
